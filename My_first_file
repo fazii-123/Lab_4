@@ -4,5 +4,6 @@ int main()
 {
   cout<<the addition of two number<<a+b<<endl;
   cout<<the subtraction of two number<<a-b<<endl;
+  cout<<the product of two number<<a*b<<endl;
 return 0;
 }
