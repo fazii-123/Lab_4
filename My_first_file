@@ -2,6 +2,8 @@
 using namespace std;
 int main()
 {
+cout<<"my name is hamad"<<endl;
+cout<<"23-st-012"<<endl;
   cout<<the addition of two number<<a+b<<endl;
   cout<<the subtraction of two number<<a-b<<endl;
 return 0;
